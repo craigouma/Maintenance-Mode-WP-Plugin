@@ -1,1 +1,1 @@
-# Maintenance-Mode--WP-Plugin
+# Maintenance-Mode-WP-Plugin
